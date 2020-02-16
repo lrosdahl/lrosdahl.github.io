@@ -1,0 +1,1 @@
+$(window).on("load",function(){const t=$("#bgndVideo");if(t.length){t.YTPlayer({mute:true,containment:"#video-wrapper",showControls:false,autoplay:true,loop:true,startAt:0,quality:"default"})}});
